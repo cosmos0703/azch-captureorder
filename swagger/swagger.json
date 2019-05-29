@@ -69,9 +69,9 @@
           }
         }
       },
-      "push": {
-        "operationId": "push",
-        "description": "push order count",
+      "put": {
+        "operationId": "put",
+        "description": "put order count",
         "summary": "Get a count of the orders in the database",
         "tags": [
           "order"
